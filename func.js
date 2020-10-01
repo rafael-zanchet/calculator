@@ -19,7 +19,7 @@ function getClick(e) {
 }
 
 function howClick(strElement){
-  
+  /// verifica se é numero
 }
 
 function displayValues(strElement) {
