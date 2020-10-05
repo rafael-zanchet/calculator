@@ -25,11 +25,39 @@
 .top-display{
   position: relative;
   width: 311px;
-  height: 66px;
+  height: 80px;
   text-align: center;
   background: #AEADAD;
   border-radius: 8px;
   margin: 8px;
+}
+
+.top-display-current{
+  position: relative;
+  width: 300px;
+  height: 25px;
+  text-align: right;
+  background: transparent;
+  padding: 5px;
+  border: 0px;
+}
+
+.top-display-prior{
+  position: relative;
+  width: 311px;
+  height: 25px;
+  text-align: center;
+  background: transparent;
+  border: 0px ;
+}
+
+.top-display-func{
+  position: relative;
+  width: 311px;
+  height: 25px;
+  text-align: center;
+  background: transparent;
+  border: 0px ;
 }
 
 .bt-grid-top{
